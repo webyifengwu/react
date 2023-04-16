@@ -1,0 +1,14 @@
+.ant-card{
+
+    .ant-card-body{
+        max-height: 685px;
+    }
+}
+
+:where(.css-dev-only-do-not-override-1km3mtt).ant-popconfirm .ant-popconfirm-message >.ant-popconfirm-message-icon .anticon{
+    font-size: 0;
+}
+
+:where(.css-dev-only-do-not-override-1km3mtt).ant-popconfirm .ant-popconfirm-message-title-only{
+    text-align: center;
+}
