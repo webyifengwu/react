@@ -1,3 +1,7 @@
+
+这里说明运行环境为
+node 版本16.4.0  npm 版本为 9.4.1 
+
 1. react-router-dom
 2. antd ui框
     antd 4版本 使用的less文件 而react　不支持编译less 文件 
